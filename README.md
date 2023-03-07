@@ -23,3 +23,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 This project was inspired by the challenges of predictive analytics in the construction industry and built using the knowledge gained from learning Python, Scikit-learn, and machine learning techniques. 
+    
