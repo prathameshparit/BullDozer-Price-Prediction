@@ -1,6 +1,3 @@
-# bulldozer_price_prediction
-
-
 # BullDozer-Price-Prediction (Collab Notebook)
 This project is a collaborative notebook that uses machine learning techniques to predict the price of bulldozers. The notebook is built using Python and the popular machine learning library, Scikit-learn. It is a great resource for those interested in machine learning and predictive analytics for the construction industry, as it demonstrates how to build a machine learning model to predict bulldozer prices using real-world data.
 
